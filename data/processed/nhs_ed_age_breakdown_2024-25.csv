@@ -1,0 +1,169 @@
+Code,diagnosis_label,financial_year,age_band,count
+F50.0,Anorexia Nervosa,2024-25,0,0.0
+F50.1,Atypical Anorexia Nervosa,2024-25,0,0.0
+F50.2,Bulimia Nervosa,2024-25,0,0.0
+F50.3,Atypical Bulimia Nervosa,2024-25,0,0.0
+F50.5,Vomiting (psychological),2024-25,0,0.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,0,5.0
+F50.9,"Eating Disorder, Unspecified",2024-25,0,2.0
+F50.0,Anorexia Nervosa,2024-25,10-14,585.0
+F50.1,Atypical Anorexia Nervosa,2024-25,10-14,15.0
+F50.2,Bulimia Nervosa,2024-25,10-14,14.0
+F50.3,Atypical Bulimia Nervosa,2024-25,10-14,0.0
+F50.5,Vomiting (psychological),2024-25,10-14,4.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,10-14,289.0
+F50.9,"Eating Disorder, Unspecified",2024-25,10-14,769.0
+F50.0,Anorexia Nervosa,2024-25,15,245.0
+F50.1,Atypical Anorexia Nervosa,2024-25,15,5.0
+F50.2,Bulimia Nervosa,2024-25,15,9.0
+F50.3,Atypical Bulimia Nervosa,2024-25,15,0.0
+F50.5,Vomiting (psychological),2024-25,15,1.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,15,101.0
+F50.9,"Eating Disorder, Unspecified",2024-25,15,360.0
+F50.0,Anorexia Nervosa,2024-25,16,282.0
+F50.1,Atypical Anorexia Nervosa,2024-25,16,7.0
+F50.2,Bulimia Nervosa,2024-25,16,8.0
+F50.3,Atypical Bulimia Nervosa,2024-25,16,0.0
+F50.5,Vomiting (psychological),2024-25,16,1.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,16,77.0
+F50.9,"Eating Disorder, Unspecified",2024-25,16,308.0
+F50.0,Anorexia Nervosa,2024-25,17,341.0
+F50.1,Atypical Anorexia Nervosa,2024-25,17,12.0
+F50.2,Bulimia Nervosa,2024-25,17,17.0
+F50.3,Atypical Bulimia Nervosa,2024-25,17,0.0
+F50.5,Vomiting (psychological),2024-25,17,0.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,17,93.0
+F50.9,"Eating Disorder, Unspecified",2024-25,17,222.0
+F50.0,Anorexia Nervosa,2024-25,18,278.0
+F50.1,Atypical Anorexia Nervosa,2024-25,18,2.0
+F50.2,Bulimia Nervosa,2024-25,18,8.0
+F50.3,Atypical Bulimia Nervosa,2024-25,18,0.0
+F50.5,Vomiting (psychological),2024-25,18,12.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,18,39.0
+F50.9,"Eating Disorder, Unspecified",2024-25,18,52.0
+F50.0,Anorexia Nervosa,2024-25,19,191.0
+F50.1,Atypical Anorexia Nervosa,2024-25,19,4.0
+F50.2,Bulimia Nervosa,2024-25,19,6.0
+F50.3,Atypical Bulimia Nervosa,2024-25,19,0.0
+F50.5,Vomiting (psychological),2024-25,19,0.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,19,47.0
+F50.9,"Eating Disorder, Unspecified",2024-25,19,37.0
+F50.0,Anorexia Nervosa,2024-25,1-4,0.0
+F50.1,Atypical Anorexia Nervosa,2024-25,1-4,0.0
+F50.2,Bulimia Nervosa,2024-25,1-4,0.0
+F50.3,Atypical Bulimia Nervosa,2024-25,1-4,0.0
+F50.5,Vomiting (psychological),2024-25,1-4,0.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,1-4,37.0
+F50.9,"Eating Disorder, Unspecified",2024-25,1-4,8.0
+F50.0,Anorexia Nervosa,2024-25,20-24,622.0
+F50.1,Atypical Anorexia Nervosa,2024-25,20-24,12.0
+F50.2,Bulimia Nervosa,2024-25,20-24,25.0
+F50.3,Atypical Bulimia Nervosa,2024-25,20-24,5.0
+F50.5,Vomiting (psychological),2024-25,20-24,11.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,20-24,60.0
+F50.9,"Eating Disorder, Unspecified",2024-25,20-24,112.0
+F50.0,Anorexia Nervosa,2024-25,25-29,378.0
+F50.1,Atypical Anorexia Nervosa,2024-25,25-29,17.0
+F50.2,Bulimia Nervosa,2024-25,25-29,15.0
+F50.3,Atypical Bulimia Nervosa,2024-25,25-29,0.0
+F50.5,Vomiting (psychological),2024-25,25-29,35.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,25-29,99.0
+F50.9,"Eating Disorder, Unspecified",2024-25,25-29,89.0
+F50.0,Anorexia Nervosa,2024-25,30-34,289.0
+F50.1,Atypical Anorexia Nervosa,2024-25,30-34,2.0
+F50.2,Bulimia Nervosa,2024-25,30-34,18.0
+F50.3,Atypical Bulimia Nervosa,2024-25,30-34,4.0
+F50.5,Vomiting (psychological),2024-25,30-34,13.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,30-34,24.0
+F50.9,"Eating Disorder, Unspecified",2024-25,30-34,44.0
+F50.0,Anorexia Nervosa,2024-25,35-39,180.0
+F50.1,Atypical Anorexia Nervosa,2024-25,35-39,1.0
+F50.2,Bulimia Nervosa,2024-25,35-39,40.0
+F50.3,Atypical Bulimia Nervosa,2024-25,35-39,0.0
+F50.5,Vomiting (psychological),2024-25,35-39,8.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,35-39,13.0
+F50.9,"Eating Disorder, Unspecified",2024-25,35-39,48.0
+F50.0,Anorexia Nervosa,2024-25,40-44,144.0
+F50.1,Atypical Anorexia Nervosa,2024-25,40-44,2.0
+F50.2,Bulimia Nervosa,2024-25,40-44,16.0
+F50.3,Atypical Bulimia Nervosa,2024-25,40-44,0.0
+F50.5,Vomiting (psychological),2024-25,40-44,14.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,40-44,17.0
+F50.9,"Eating Disorder, Unspecified",2024-25,40-44,31.0
+F50.0,Anorexia Nervosa,2024-25,45-49,131.0
+F50.1,Atypical Anorexia Nervosa,2024-25,45-49,0.0
+F50.2,Bulimia Nervosa,2024-25,45-49,14.0
+F50.3,Atypical Bulimia Nervosa,2024-25,45-49,0.0
+F50.5,Vomiting (psychological),2024-25,45-49,2.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,45-49,23.0
+F50.9,"Eating Disorder, Unspecified",2024-25,45-49,15.0
+F50.0,Anorexia Nervosa,2024-25,50-54,125.0
+F50.1,Atypical Anorexia Nervosa,2024-25,50-54,3.0
+F50.2,Bulimia Nervosa,2024-25,50-54,9.0
+F50.3,Atypical Bulimia Nervosa,2024-25,50-54,0.0
+F50.5,Vomiting (psychological),2024-25,50-54,0.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,50-54,8.0
+F50.9,"Eating Disorder, Unspecified",2024-25,50-54,41.0
+F50.0,Anorexia Nervosa,2024-25,55-59,93.0
+F50.1,Atypical Anorexia Nervosa,2024-25,55-59,5.0
+F50.2,Bulimia Nervosa,2024-25,55-59,7.0
+F50.3,Atypical Bulimia Nervosa,2024-25,55-59,0.0
+F50.5,Vomiting (psychological),2024-25,55-59,2.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,55-59,28.0
+F50.9,"Eating Disorder, Unspecified",2024-25,55-59,21.0
+F50.0,Anorexia Nervosa,2024-25,5-9,5.0
+F50.1,Atypical Anorexia Nervosa,2024-25,5-9,2.0
+F50.2,Bulimia Nervosa,2024-25,5-9,0.0
+F50.3,Atypical Bulimia Nervosa,2024-25,5-9,0.0
+F50.5,Vomiting (psychological),2024-25,5-9,3.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,5-9,123.0
+F50.9,"Eating Disorder, Unspecified",2024-25,5-9,37.0
+F50.0,Anorexia Nervosa,2024-25,60-64,36.0
+F50.1,Atypical Anorexia Nervosa,2024-25,60-64,5.0
+F50.2,Bulimia Nervosa,2024-25,60-64,3.0
+F50.3,Atypical Bulimia Nervosa,2024-25,60-64,0.0
+F50.5,Vomiting (psychological),2024-25,60-64,0.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,60-64,6.0
+F50.9,"Eating Disorder, Unspecified",2024-25,60-64,18.0
+F50.0,Anorexia Nervosa,2024-25,65-69,29.0
+F50.1,Atypical Anorexia Nervosa,2024-25,65-69,0.0
+F50.2,Bulimia Nervosa,2024-25,65-69,0.0
+F50.3,Atypical Bulimia Nervosa,2024-25,65-69,0.0
+F50.5,Vomiting (psychological),2024-25,65-69,3.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,65-69,5.0
+F50.9,"Eating Disorder, Unspecified",2024-25,65-69,8.0
+F50.0,Anorexia Nervosa,2024-25,70-74,10.0
+F50.1,Atypical Anorexia Nervosa,2024-25,70-74,0.0
+F50.2,Bulimia Nervosa,2024-25,70-74,0.0
+F50.3,Atypical Bulimia Nervosa,2024-25,70-74,0.0
+F50.5,Vomiting (psychological),2024-25,70-74,0.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,70-74,1.0
+F50.9,"Eating Disorder, Unspecified",2024-25,70-74,7.0
+F50.0,Anorexia Nervosa,2024-25,75-79,21.0
+F50.1,Atypical Anorexia Nervosa,2024-25,75-79,0.0
+F50.2,Bulimia Nervosa,2024-25,75-79,0.0
+F50.3,Atypical Bulimia Nervosa,2024-25,75-79,0.0
+F50.5,Vomiting (psychological),2024-25,75-79,3.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,75-79,4.0
+F50.9,"Eating Disorder, Unspecified",2024-25,75-79,16.0
+F50.0,Anorexia Nervosa,2024-25,80-84,0.0
+F50.1,Atypical Anorexia Nervosa,2024-25,80-84,0.0
+F50.2,Bulimia Nervosa,2024-25,80-84,0.0
+F50.3,Atypical Bulimia Nervosa,2024-25,80-84,0.0
+F50.5,Vomiting (psychological),2024-25,80-84,0.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,80-84,1.0
+F50.9,"Eating Disorder, Unspecified",2024-25,80-84,2.0
+F50.0,Anorexia Nervosa,2024-25,85-89,3.0
+F50.1,Atypical Anorexia Nervosa,2024-25,85-89,0.0
+F50.2,Bulimia Nervosa,2024-25,85-89,0.0
+F50.3,Atypical Bulimia Nervosa,2024-25,85-89,0.0
+F50.5,Vomiting (psychological),2024-25,85-89,1.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,85-89,5.0
+F50.9,"Eating Disorder, Unspecified",2024-25,85-89,1.0
+F50.0,Anorexia Nervosa,2024-25,90-120,0.0
+F50.1,Atypical Anorexia Nervosa,2024-25,90-120,1.0
+F50.2,Bulimia Nervosa,2024-25,90-120,0.0
+F50.3,Atypical Bulimia Nervosa,2024-25,90-120,0.0
+F50.5,Vomiting (psychological),2024-25,90-120,0.0
+F50.8,Other Eating Disorders (incl. Binge Eating Disorder),2024-25,90-120,0.0
+F50.9,"Eating Disorder, Unspecified",2024-25,90-120,0.0
