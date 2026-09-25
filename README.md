@@ -142,8 +142,10 @@ over-read the regional ranking; it's useful for context, not a reliable
 
 ## Dashboard Preview
 
+**HTML Site**
 ![HTML Dashboard](reports/snapshots/overviewhtml.png)
 ![HTML Dashboard](reports/snapshots/forecasthtml.png)
 
+**Powerbi Dashboard**
 ![Power BI Overview](reports/snapshots/uked1ST.png)
 ![Power BI Overview](reports/snapshots/eat26.png)
