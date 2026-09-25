@@ -1,28 +1,28 @@
 financial_year,Code,diagnosis_label,FCE_SUM,FAE_SUM,FCE_Male_Sum,FCE_Female_Sum
 2021-22,F50,All Eating Disorders (total),8674,5559,713,7956
-2021-22,,,5431,3190,294,5134
-2021-22,,,150,99,7,143
-2021-22,,,188,112,32,155
-2021-22,,,4,4,0,4
-2021-22,,,2,2,0,2
-2021-22,,,84,58,27,56
-2021-22,,,559,404,127,432
-2021-22,,,2256,1690,226,2030
+2021-22,F50.0,Anorexia Nervosa,5431,3190,294,5134
+2021-22,F50.1,Atypical Anorexia Nervosa,150,99,7,143
+2021-22,F50.2,Bulimia Nervosa,188,112,32,155
+2021-22,F50.3,Atypical Bulimia Nervosa,4,4,0,4
+2021-22,F50.4,Overeating (psychological),2,2,0,2
+2021-22,F50.5,Vomiting (psychological),84,58,27,56
+2021-22,F50.8,Other Eating Disorders (incl. Binge Eating Disorder),559,404,127,432
+2021-22,F50.9,"Eating Disorder, Unspecified",2256,1690,226,2030
 2022-23,F50,All Eating Disorders (total),7339,4462,615,6711
-2022-23,,,4380,2332,222,4154
-2022-23,,,138,66,10,128
-2022-23,,,190,118,18,172
-2022-23,,,4,3,0,4
-2022-23,,,1,1,0,1
-2022-23,,,67,45,23,44
-2022-23,,,720,492,191,528
-2022-23,,,1839,1405,151,1680
+2022-23,F50.0,Anorexia Nervosa,4380,2332,222,4154
+2022-23,F50.1,Atypical Anorexia Nervosa,138,66,10,128
+2022-23,F50.2,Bulimia Nervosa,190,118,18,172
+2022-23,F50.3,Atypical Bulimia Nervosa,4,3,0,4
+2022-23,F50.4,Overeating (psychological),1,1,0,1
+2022-23,F50.5,Vomiting (psychological),67,45,23,44
+2022-23,F50.8,Other Eating Disorders (incl. Binge Eating Disorder),720,492,191,528
+2022-23,F50.9,"Eating Disorder, Unspecified",1839,1405,151,1680
 2023-24,F50,All Eating Disorders (total),7522,4471,728,6721
-2023-24,,,4016,2069,194,3791
-2023-24,,,136,55,16,104
-2023-24,,,235,101,16,218
-2023-24,,,2,2,1,1
-2023-24,,,1,0,1,0
-2023-24,,,89,41,19,70
-2023-24,,,992,641,289,691
-2023-24,,,2051,1562,192,1846
+2023-24,F50.0,Anorexia Nervosa,4016,2069,194,3791
+2023-24,F50.1,Atypical Anorexia Nervosa,136,55,16,104
+2023-24,F50.2,Bulimia Nervosa,235,101,16,218
+2023-24,F50.3,Atypical Bulimia Nervosa,2,2,1,1
+2023-24,F50.4,Overeating (psychological),1,0,1,0
+2023-24,F50.5,Vomiting (psychological),89,41,19,70
+2023-24,F50.8,Other Eating Disorders (incl. Binge Eating Disorder),992,641,289,691
+2023-24,F50.9,"Eating Disorder, Unspecified",2051,1562,192,1846

@@ -72,12 +72,18 @@ def parse_sheet(path, sheet_name, code_prefix_filter):
 def extract_year(year_label, path):
     # 3-character sheet for the F50 total
     df3 = parse_sheet(path, "Primary Diagnosis 3 Character", ["F50"])
+    df3 = df3.rename(columns={df3.columns[0]: "Code"})
+
     # 4-character sheet for subtypes
     df4 = parse_sheet(path, "Primary Diagnosis 4 Character", ["F50."])
+    df4 = df4.rename(columns={df4.columns[0]: "Code"})
 
+    # each sheet's own first column is renamed to "Code" BEFORE concatenating,
+    # since the two sheets use different header text ("3 character code and
+    # description" vs "4 character code and description") -- concatenating
+    # first would leave the codes split across two separate columns instead
+    # of merging into one, which is the bug this fixes.
     combined = pd.concat([df3, df4], ignore_index=True)
-    code_col = combined.columns[0]
-    combined = combined.rename(columns={code_col: "Code"})
     combined["Code"] = combined["Code"].astype(str).str.strip()
     combined["diagnosis_label"] = combined["Code"].map(ED_CODE_LABELS)
     combined["financial_year"] = year_label

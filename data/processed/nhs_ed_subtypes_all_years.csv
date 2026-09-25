@@ -3,34 +3,34 @@ financial_year,Code,diagnosis_label,FCE_SUM,FAE_SUM,FCE_Male_Sum,FCE_Female_Sum
 2022-23,F50,All Eating Disorders (total),7339.0,4462.0,615.0,6711.0
 2023-24,F50,All Eating Disorders (total),7522.0,4471.0,728.0,6721.0
 2024-25,F50,All Eating Disorders (total),7884.0,4498.0,827.0,7017.0
+2021-22,F50.0,Anorexia Nervosa,5431.0,3190.0,294.0,5134.0
+2022-23,F50.0,Anorexia Nervosa,4380.0,2332.0,222.0,4154.0
+2023-24,F50.0,Anorexia Nervosa,4016.0,2069.0,194.0,3791.0
 2024-25,F50.0,Anorexia Nervosa,4067.0,1914.0,220.0,3822.0
+2021-22,F50.1,Atypical Anorexia Nervosa,150.0,99.0,7.0,143.0
+2022-23,F50.1,Atypical Anorexia Nervosa,138.0,66.0,10.0,128.0
+2023-24,F50.1,Atypical Anorexia Nervosa,136.0,55.0,16.0,104.0
 2024-25,F50.1,Atypical Anorexia Nervosa,96.0,54.0,18.0,78.0
+2021-22,F50.2,Bulimia Nervosa,188.0,112.0,32.0,155.0
+2022-23,F50.2,Bulimia Nervosa,190.0,118.0,18.0,172.0
+2023-24,F50.2,Bulimia Nervosa,235.0,101.0,16.0,218.0
 2024-25,F50.2,Bulimia Nervosa,216.0,103.0,25.0,191.0
+2021-22,F50.3,Atypical Bulimia Nervosa,4.0,4.0,0.0,4.0
+2022-23,F50.3,Atypical Bulimia Nervosa,4.0,3.0,0.0,4.0
+2023-24,F50.3,Atypical Bulimia Nervosa,2.0,2.0,1.0,1.0
 2024-25,F50.3,Atypical Bulimia Nervosa,9.0,2.0,0.0,9.0
+2021-22,F50.4,Overeating (psychological),2.0,2.0,0.0,2.0
+2022-23,F50.4,Overeating (psychological),1.0,1.0,0.0,1.0
+2023-24,F50.4,Overeating (psychological),1.0,0.0,1.0,0.0
+2021-22,F50.5,Vomiting (psychological),84.0,58.0,27.0,56.0
+2022-23,F50.5,Vomiting (psychological),67.0,45.0,23.0,44.0
+2023-24,F50.5,Vomiting (psychological),89.0,41.0,19.0,70.0
 2024-25,F50.5,Vomiting (psychological),113.0,52.0,24.0,89.0
+2021-22,F50.8,Other Eating Disorders (incl. Binge Eating Disorder),559.0,404.0,127.0,432.0
+2022-23,F50.8,Other Eating Disorders (incl. Binge Eating Disorder),720.0,492.0,191.0,528.0
+2023-24,F50.8,Other Eating Disorders (incl. Binge Eating Disorder),992.0,641.0,289.0,691.0
 2024-25,F50.8,Other Eating Disorders (incl. Binge Eating Disorder),1115.0,738.0,319.0,793.0
+2021-22,F50.9,"Eating Disorder, Unspecified",2256.0,1690.0,226.0,2030.0
+2022-23,F50.9,"Eating Disorder, Unspecified",1839.0,1405.0,151.0,1680.0
+2023-24,F50.9,"Eating Disorder, Unspecified",2051.0,1562.0,192.0,1846.0
 2024-25,F50.9,"Eating Disorder, Unspecified",2268.0,1635.0,221.0,2035.0
-2021-22,,,5431.0,3190.0,294.0,5134.0
-2021-22,,,150.0,99.0,7.0,143.0
-2021-22,,,188.0,112.0,32.0,155.0
-2021-22,,,4.0,4.0,0.0,4.0
-2021-22,,,2.0,2.0,0.0,2.0
-2021-22,,,84.0,58.0,27.0,56.0
-2021-22,,,559.0,404.0,127.0,432.0
-2021-22,,,2256.0,1690.0,226.0,2030.0
-2022-23,,,4380.0,2332.0,222.0,4154.0
-2022-23,,,138.0,66.0,10.0,128.0
-2022-23,,,190.0,118.0,18.0,172.0
-2022-23,,,4.0,3.0,0.0,4.0
-2022-23,,,1.0,1.0,0.0,1.0
-2022-23,,,67.0,45.0,23.0,44.0
-2022-23,,,720.0,492.0,191.0,528.0
-2022-23,,,1839.0,1405.0,151.0,1680.0
-2023-24,,,4016.0,2069.0,194.0,3791.0
-2023-24,,,136.0,55.0,16.0,104.0
-2023-24,,,235.0,101.0,16.0,218.0
-2023-24,,,2.0,2.0,1.0,1.0
-2023-24,,,1.0,0.0,1.0,0.0
-2023-24,,,89.0,41.0,19.0,70.0
-2023-24,,,992.0,641.0,289.0,691.0
-2023-24,,,2051.0,1562.0,192.0,1846.0
