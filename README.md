@@ -145,5 +145,5 @@ over-read the regional ranking; it's useful for context, not a reliable
 ![HTML Dashboard](reports/snapshots/overviewhtml.png)
 ![HTML Dashboard](reports/snapshots/forecasthtml.png)
 
-![Power BI Overview](reports/snapshot/uked1ST.png)
-![Power BI Overview](reports/snapshot/eat26.png)
+![Power BI Overview](reports/snapshots/uked1ST.png)
+![Power BI Overview](reports/snapshots/eat26.png)
