@@ -139,3 +139,11 @@ West Midlands (1 each).
 year-to-year noise can easily produce differences this size. Don't
 over-read the regional ranking; it's useful for context, not a reliable
 "riskier region" claim. Worth pairing with multiple years if you find them.
+
+## Dashboard Preview
+
+![HTML Dashboard](reports/snapshots/overviewhtml.png)
+![HTML Dashboard](reports/snapshots/forecasthtml.png)
+
+![Power BI Overview](reports/snapshot/uked1ST.png)
+![Power BI Overview](reports/snapshot/eat26.png)

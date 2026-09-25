@@ -1,14 +1,4 @@
-"""
-eat26_classifier.py
 
-Trains a multi-class classifier to predict a "risk pattern" label from
-EAT-26 subscale scores + basic demographics, on the synthetic dataset
-produced by generate_eat26_dataset.py.
-
-IMPORTANT: this is a screening-pattern demo, not a diagnostic tool. The
-labels represent broad symptom *patterns* documented in EAT-26 literature,
-not clinical diagnoses, and the data itself is synthetic.
-"""
 
 import pandas as pd
 import numpy as np

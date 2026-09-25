@@ -1,29 +1,3 @@
-"""
-load_nhs_diagnosis_data.py
-
-Parses the official NHS Digital "Hospital Admitted Patient Care Activity"
-diagnosis summary file (hosp-epis-stat-admi-diag-<year>.csv) and extracts
-just the eating disorder (ICD-10 F50.x) rows into a clean, wide table.
-
-Source file structure (long format):
-  UID, Code, Category, Attribute, Value
-  - Code: ICD-10 code (e.g. "F50", "F50.0")
-  - Category: DIAG_3_01 (3-character code) or DIAG_4_01 (4-character code)
-  - Attribute: the metric name (FCE_SUM, Age_10_14_Sum, FCE_Male_Sum, etc.)
-  - Value: the count
-
-Eating disorder ICD-10 codes:
-  F50   - Eating disorders (all, 3-char total)
-  F50.0 - Anorexia Nervosa
-  F50.1 - Atypical Anorexia Nervosa
-  F50.2 - Bulimia Nervosa
-  F50.3 - Atypical Bulimia Nervosa
-  F50.4 - Overeating associated with other psychological disturbances
-  F50.5 - Vomiting associated with other psychological disturbances
-  F50.8 - Other eating disorders (includes Binge Eating Disorder in practice)
-  F50.9 - Eating disorder, unspecified
-"""
-
 import pandas as pd
 
 ED_CODE_LABELS = {

@@ -1,21 +1,3 @@
-"""
-load_to_mysql.py
-
-Loads the processed CSVs into the MySQL database created by schema.sql.
-
-Requires: pip install mysql-connector-python pandas
-
-Set your connection details via environment variables (don't hardcode
-credentials in code):
-    MYSQL_HOST, MYSQL_USER, MYSQL_PASSWORD, MYSQL_DATABASE (defaults to uk_ed_analytics)
-
-Usage:
-    export MYSQL_HOST=localhost
-    export MYSQL_USER=root
-    export MYSQL_PASSWORD=yourpassword
-    python load_to_mysql.py
-"""
-
 import os
 import pandas as pd
 import mysql.connector

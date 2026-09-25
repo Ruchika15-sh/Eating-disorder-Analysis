@@ -1,20 +1,3 @@
-"""
-forecast_admissions.py
-
-Forecasts England-wide eating disorder hospital admissions using the
-real, publicly reported NHS Digital annual figures in
-data/raw/nhs_ed_admissions_england.csv.
-
-Honesty note: this is only 7 annual data points (FY2016/17-2022/23), which
-is a genuinely small sample for time-series forecasting. There's no
-reliable seasonal pattern to model with annual data, so this deliberately
-uses a simple, defensible approach (linear trend regression + Holt's
-Linear Exponential Smoothing) rather than a full SARIMA model, which
-would be overfitting to 7 points. Report forecasts with wide uncertainty
-in mind, and treat this as a directional trend indicator, not a precise
-prediction.
-"""
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt

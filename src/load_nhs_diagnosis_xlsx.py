@@ -1,15 +1,3 @@
-"""
-load_nhs_diagnosis_xlsx.py
-
-Parses the older-format NHS Digital diagnosis Excel files
-(2021-22, 2022-23, 2023-24), which use a wide table layout with a header
-row of named columns, unlike the 2024-25 long-format CSV.
-
-Sheets used:
-  - "Primary Diagnosis 3 Character" -> F50 total row
-  - "Primary Diagnosis 4 Character" -> F50.0-F50.9 subtype rows
-"""
-
 import openpyxl
 import pandas as pd
 

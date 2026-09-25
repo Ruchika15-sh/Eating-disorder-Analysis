@@ -1,10 +1,3 @@
-"""
-load_ons_mortality.py
-
-Parses the ONS/Nomis mortality-by-region data (underlying cause of death,
-F50 eating disorders vs all causes), 2024, England & Wales regions.
-"""
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns

@@ -1,29 +1,3 @@
-"""
-generate_eat26_dataset.py
-
-Generates a SYNTHETIC dataset that mimics EAT-26 (Eating Attitudes Test-26)
-screening responses, because real respondent-level EAT-26 data is not
-publicly available (it's sensitive health data).
-
-The generation logic is grounded in published EAT-26 psychometrics:
-  - 3 subscales: Dieting, Bulimia & Food Preoccupation, Oral Control
-  - Total score range: 0-78, clinical cutoff >= 20 (Garner et al., 1982)
-  - Class-conditional subscale patterns are based on documented clinical
-    patterns from EAT-26 validation literature:
-      * Restrictive (AN-type)  -> high Dieting, low-moderate Bulimia subscale
-      * Bulimic (BN-type)      -> high Bulimia & Food Preoccupation, lower
-                                   Oral Control
-      * Binge (BED-type)       -> low Oral Control (impulse control),
-                                   moderate Bulimia subscale, less restrictive
-                                   Dieting than AN-type
-      * Low risk               -> all subscales low, total score well under
-                                   the clinical cutoff
-
-This is a teaching/portfolio dataset for building and evaluating a
-classification pipeline. It is NOT clinical data and must never be
-described or used as if it were real patient data.
-"""
-
 import numpy as np
 import pandas as pd
 

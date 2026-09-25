@@ -1,10 +1,3 @@
-"""
-eda_nhs_subtypes.py
-
-Exploratory analysis on the real NHS Digital 2024-25 eating disorder
-diagnosis data (F50.0-F50.9), by subtype.
-"""
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
